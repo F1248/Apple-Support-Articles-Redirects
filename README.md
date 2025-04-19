@@ -1,6 +1,7 @@
 # Apple Support Article Redirects
 
 ## Fetched URLs
+- https://support.apple.com/en-us/HTX
 - https://support.apple.com/en-us/HT0XXXXX
 - https://support.apple.com/en-us/HT1XXXXX
 - https://support.apple.com/en-us/HT2XXXXX

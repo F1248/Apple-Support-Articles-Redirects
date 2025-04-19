@@ -23,6 +23,7 @@
 - https://support.apple.com/en-us/HT1XXXXX
 - https://support.apple.com/en-us/HT3XXXXX
 - https://support.apple.com/en-us/TSX
+- https://support.apple.com/en-us/TSXX
 - https://support.apple.com/kb/PHX?locale=en_US
 - https://support.apple.com/kb/PHXX?locale=en_US
 - https://support.apple.com/kb/PHXXX?locale=en_US
@@ -40,6 +41,5 @@
 - https://support.apple.com/kb/TAXXX?locale=en_US
 - https://support.apple.com/kb/TAXXXX?locale=en_US
 - https://support.apple.com/kb/TAXXXXX?locale=en_US
-- https://support.apple.com/en-us/TSXX
 - https://support.apple.com/en-us/TSXXX
 - https://support.apple.com/en-us/TSXXXX

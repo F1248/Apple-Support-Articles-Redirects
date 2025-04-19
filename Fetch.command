@@ -22,7 +22,7 @@ excluded_urls = [
 for characters_2 in characters_2_combinations:
 
 	start_time = time.time()
-	print(f"Fetching {characters_1}{characters_2}{"X" * characters_3_length} ...")
+	print(f"Fetching {prefix}{characters_1}{characters_2}{"X" * characters_3_length} ...")
 	succeeded = False
 
 	while not succeeded:

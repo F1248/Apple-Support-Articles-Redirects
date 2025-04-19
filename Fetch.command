@@ -70,6 +70,9 @@ excluded_urls = [
 	"https://support.apple.com/en-us/TS3839",
 	"https://support.apple.com/en-us/TS3856",
 	"https://support.apple.com/en-us/TS4012",
+	"https://support.apple.com/kb/TA21492?locale=en_US",
+	"https://support.apple.com/kb/TA24340?locale=en_US",
+	"https://support.apple.com/kb/TA24546?locale=en_US",
 ]
 
 for characters_2 in characters_2_combinations:

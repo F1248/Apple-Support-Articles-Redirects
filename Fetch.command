@@ -30,11 +30,13 @@ for characters_2 in characters_2_combinations:
 		succeeded = True
 
 		for response in grequests.map(
-			(grequests.get(url) for url in (
-				url for url in (
-					f"{prefix}{characters_1}{characters_2}{characters_3}" for characters_3 in characters_3_combinations
-				) if url not in excluded_urls
-			)),
+			(
+				grequests.get(url) for url in (
+					url for url in (
+						f"{prefix}{characters_1}{characters_2}{characters_3}" for characters_3 in characters_3_combinations
+					) if url not in excluded_urls
+				)
+			),
 			stream=True,
 			size=50,
 			gtimeout=10

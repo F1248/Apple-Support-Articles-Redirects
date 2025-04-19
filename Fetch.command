@@ -7,6 +7,7 @@ import time
 import grequests
 
 prefix = # Prefix, e.g. `"https://support.apple.com/en-us/HT"`
+postfix = # Postfix, e.g. `"?locale=en_US"`
 characters = # Allowed characters, e.g. `string.digits`
 characters_1 = # Static first characters, must be in `characters`
 characters_2_length = # Length of second characters
@@ -48,7 +49,7 @@ excluded_urls = [
 for characters_2 in characters_2_combinations:
 
 	start_time = time.time()
-	print(f"Fetching {prefix}{characters_1}{characters_2}{"X" * characters_3_length} ...")
+	print(f"Fetching {prefix}{characters_1}{characters_2}{"X" * characters_3_length}{postfix} ...")
 	succeeded = False
 
 	while not succeeded:
@@ -58,7 +59,7 @@ for characters_2 in characters_2_combinations:
 		for response in grequests.map(
 			(
 				grequests.get(url) for url in (
-					f"{prefix}{characters_1}{characters_2}{characters_3}" for characters_3 in characters_3_combinations
+					f"{prefix}{characters_1}{characters_2}{characters_3}{postfix}" for characters_3 in characters_3_combinations
 				) if url not in excluded_urls
 			),
 			stream=True,

@@ -16,7 +16,7 @@ characters_2_combinations = ("".join(characters) for characters in itertools.pro
 characters_3_combinations = ["".join(characters) for characters in itertools.product(characters, repeat=characters_3_length)]
 
 excluded_urls = [
-	"https://support.apple.com/en-us/HT206158"
+	"https://support.apple.com/en-us/HT206158",
 ]
 
 for characters_2 in characters_2_combinations:
@@ -37,7 +37,7 @@ for characters_2 in characters_2_combinations:
 			),
 			stream=True,
 			size=50,
-			gtimeout=10
+			gtimeout=10,
 		):
 
 			if response is None:

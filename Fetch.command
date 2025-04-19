@@ -16,6 +16,32 @@ characters_2_combinations = ("".join(characters) for characters in itertools.pro
 characters_3_combinations = ["".join(characters) for characters in itertools.product(characters, repeat=characters_3_length)]
 
 excluded_urls = [
+	"https://support.apple.com/en-us/HT1598",
+	"https://support.apple.com/en-us/HT1854",
+	"https://support.apple.com/en-us/HT3428",
+	"https://support.apple.com/en-us/HT3451",
+	"https://support.apple.com/en-us/HT3452",
+	"https://support.apple.com/en-us/HT3505",
+	"https://support.apple.com/en-us/HT3652",
+	"https://support.apple.com/en-us/HT3685",
+	"https://support.apple.com/en-us/HT3687",
+	"https://support.apple.com/en-us/HT4001",
+	"https://support.apple.com/en-us/HT4002",
+	"https://support.apple.com/en-us/HT4003",
+	"https://support.apple.com/en-us/HT4074",
+	"https://support.apple.com/en-us/HT4086",
+	"https://support.apple.com/en-us/HT4409",
+	"https://support.apple.com/en-us/HT4468",
+	"https://support.apple.com/en-us/HT4595",
+	"https://support.apple.com/en-us/HT4737",
+	"https://support.apple.com/en-us/HT4954",
+	"https://support.apple.com/en-us/HT5063",
+	"https://support.apple.com/en-us/HT5066",
+	"https://support.apple.com/en-us/HT5207",
+	"https://support.apple.com/en-us/HT5216",
+	"https://support.apple.com/en-us/HT5298",
+	"https://support.apple.com/en-us/HT5305",
+	"https://support.apple.com/en-us/HT5325",
 	"https://support.apple.com/en-us/HT206158",
 ]
 

@@ -2367,7 +2367,7 @@ https://support.apple.com/en-us/HT206152 -> https://support.apple.com/en-us/1014
 https://support.apple.com/en-us/HT206153 -> https://support.apple.com/en-us/101302
 https://support.apple.com/en-us/HT206154 -> https://support.apple.com/en-us/101510
 https://support.apple.com/en-us/HT206157 -> https://support.apple.com/en-us/102244
-https://support.apple.com/en-us/HT206158 -> https://support.apple.com/guide/iphone/iphe2b88f66b/ios
+https://support.apple.com/en-us/HT206158 -> https://support.apple.com/guide/iphone/subscribe-to-individual-news-channels-iphe2b88f66b/ios
 https://support.apple.com/en-us/HT206160 -> https://support.apple.com/en-us/101792
 https://support.apple.com/en-us/HT206166 -> https://support.apple.com/en-us/103622
 https://support.apple.com/en-us/HT206167 -> https://support.apple.com/en-us/103407

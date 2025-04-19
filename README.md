@@ -13,6 +13,7 @@
 - https://support.apple.com/kb/DLX?locale=en_US
 - https://support.apple.com/kb/DLXX?locale=en_US
 - https://support.apple.com/kb/DLXXX?locale=en_US
+- https://support.apple.com/kb/DLXXXX?locale=en_US
 - https://support.apple.com/kb/PHX?locale=en_US
 - https://support.apple.com/kb/PHXX?locale=en_US
 - https://support.apple.com/kb/PHXXX?locale=en_US

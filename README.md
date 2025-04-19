@@ -28,6 +28,7 @@
 - https://support.apple.com/en-us/HT0XXXXX
 - https://support.apple.com/en-us/HT1XXXXX
 - https://support.apple.com/en-us/HT3XXXXX
+- https://support.apple.com/en-us/HT4XXXXX
 - https://support.apple.com/en-us/TSX
 - https://support.apple.com/en-us/TSXX
 - https://support.apple.com/en-us/TSXXX
@@ -37,7 +38,6 @@
 - https://support.apple.com/kb/SPXXXX?locale=en_US
 
 ## To Do
-- https://support.apple.com/en-us/HT4XXXXX
 - https://support.apple.com/en-us/HT5XXXXX
 - https://support.apple.com/en-us/HT6XXXXX
 - https://support.apple.com/en-us/HT7XXXXX

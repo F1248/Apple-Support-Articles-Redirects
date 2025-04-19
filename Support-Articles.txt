@@ -7352,3 +7352,10 @@ https://support.apple.com/en-us/HT214121 -> https://support.apple.com/en-us/1209
 https://support.apple.com/en-us/HT214122 -> https://support.apple.com/en-us/120914
 https://support.apple.com/en-us/HT214123 -> https://support.apple.com/en-us/120915
 https://support.apple.com/en-us/HT214124 -> https://support.apple.com/en-us/120916
+https://support.apple.com/kb/SP1?locale=en_US -> https://support.apple.com/en-us/112477
+https://support.apple.com/kb/SP2?locale=en_US -> https://support.apple.com/en-us/112445
+https://support.apple.com/kb/SP3?locale=en_US -> https://support.apple.com/en-us/112532
+https://support.apple.com/kb/SP5?locale=en_US -> https://support.apple.com/en-us/112467
+https://support.apple.com/kb/SP7?locale=en_US -> https://support.apple.com/en-us/112504
+https://support.apple.com/kb/SP8?locale=en_US -> https://support.apple.com/en-us/112533
+https://support.apple.com/kb/SP9?locale=en_US -> https://support.apple.com/en-us/112505

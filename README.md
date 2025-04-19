@@ -17,6 +17,7 @@
 - https://support.apple.com/kb/TAX?locale=en_US
 - https://support.apple.com/kb/TAXX?locale=en_US
 - https://support.apple.com/kb/TAXXX?locale=en_US
+- https://support.apple.com/kb/TAXXXX?locale=en_US
 
 ### No Articles Found
 - https://support.apple.com/en-us/HTX
@@ -41,5 +42,4 @@
 - https://support.apple.com/en-us/HT7XXXXX
 - https://support.apple.com/en-us/HT8XXXXX
 - https://support.apple.com/en-us/HT9XXXXX
-- https://support.apple.com/kb/TAXXXX?locale=en_US
 - https://support.apple.com/kb/TAXXXXX?locale=en_US

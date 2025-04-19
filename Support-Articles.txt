@@ -7352,6 +7352,7 @@ https://support.apple.com/en-us/HT214121 -> https://support.apple.com/en-us/1209
 https://support.apple.com/en-us/HT214122 -> https://support.apple.com/en-us/120914
 https://support.apple.com/en-us/HT214123 -> https://support.apple.com/en-us/120915
 https://support.apple.com/en-us/HT214124 -> https://support.apple.com/en-us/120916
+https://support.apple.com/kb/DL9?locale=en_US -> https://support.apple.com/en-us/106901
 https://support.apple.com/kb/PH1643?locale=en_US -> https://support.apple.com/en-us/118292
 https://support.apple.com/kb/PH1730?locale=en_US -> https://support.apple.com/en-us/118292
 https://support.apple.com/kb/PH2132?locale=en_US -> https://support.apple.com/guide/imovie/keyboard-shortcuts-movd9d8f91e8/mac

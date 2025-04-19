@@ -54,9 +54,9 @@ for characters_2 in characters_2_combinations:
 				break
 
 			if len(response.history) == 0:
-				print(f"\"{response.url}\" -> \"{response.url}\"")
+				print(f"{response.url} -> {response.url}")
 			else:
-				print(f"\"{response.history[0].url}\" -> \"{response.url}\"")
+				print(f"{response.history[0].url} -> {response.url}")
 
 	print(f"Fetched in {round(time.time() - start_time, 2)} seconds!")
 
